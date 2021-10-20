@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santosh-AD
+- 👋 Hi, I’m Santosh
 - 👀 I’m interested in Mobile and Web Development 
 - 🌱 I’m currently learning NodeJs, React, manymore..
 - 💞️ I’m looking to collaborate on any Flutter Project 
